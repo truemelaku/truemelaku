@@ -1,7 +1,7 @@
  👋 Hi, I’m Tirusew melaku, I am a computer engineering student at Bahirdar university.
 - 👀 I’m interested in coding I want to be  Fulstack MERN developer.
 - 🌱 I’m currently learning programming especially javascript is my favorite language to work with it is my favorite thing
-- 📫 How to reach me you can get me here truemelaku@gmail.com
+- 📫 How to reach me you can get me here truemelaku9@gmail.com
 - \
 
 <!---
